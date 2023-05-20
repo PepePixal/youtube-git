@@ -1,0 +1,161 @@
+commit 2b33e1882e0310fa0dadef4151b11392f9db155e
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Mon May 15 23:47:19 2023 +0200
+
+    Agregando desdecasa.txt
+
+commit 0f126a3756936b0deaba1921deac6315d59a3e76
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Mon May 15 18:16:56 2023 +0200
+
+    agregado a desdepixal.txt 18:15h
+
+commit d3530afeee65aeda563bd514e578291fb912b56f
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Mon May 15 18:00:27 2023 +0200
+
+    agragando desdepixal.txt
+
+commit 69b9a6182717e2b078fd68805677d7fe9482e43f
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 23:37:03 2023 +0200
+
+    Ultima con estaciones
+
+commit d77ad87819cc894447532f27400492ded6b53b0f
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 23:05:13 2023 +0200
+
+    cambios en index
+
+commit 95fff68969b0ad96fbbfc0739f7bcfe405a272c3
+Merge: 8b9dcfb 7aab222
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 23:03:11 2023 +0200
+
+    git pull para
+    clear
+
+commit 8b9dcfb601a8ee84f266900e52907f38f8e2c95c
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 22:49:58 2023 +0200
+
+    nuevoa index.html estaciones MAYUSCUALS
+
+commit a14af573af461cc474e98e92cea3318f9d3e8f99
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 21:06:18 2023 +0200
+
+    agragando estaciones MAYUSCULA
+
+commit 7aab222c32b07fd5201920bc5c018f1f19fadb3f
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 21:06:18 2023 +0200
+
+    Agregando estaciones
+
+commit 9046788e30239667531b3e59315d8e75ddc8965f
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 20:39:08 2023 +0200
+
+    Agregando estaciones del año
+
+commit a99fb789c57f0d0d56315e238549b39aa36adc0f
+Merge: a3f7735 d930a4e
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 19:56:36 2023 +0200
+
+    Resolviendo conflicto merge main/html en index.html de la rama main
+
+commit d930a4e420e4db651b9548219a00d7c9711f591c
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 19:44:37 2023 +0200
+
+    Agregando index.js al index.htm en rama html
+
+commit a3f773585617ef3afa1c2672da010917ea18217b
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 14 19:41:35 2023 +0200
+
+    Agregando style.css al index.html en main
+
+commit a2fc210e1287ea8bef0be3535419008ba00878e4
+Merge: abfc106 1528fbe
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Mon May 8 00:09:14 2023 +0200
+
+    Resolviendo clinflicto marge main/html en indes.html
+
+commit 1528fbea4cdad7d474e48346bc391256d5b84616
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 7 23:56:54 2023 +0200
+
+    Agregando index.js al index.html
+
+commit abfc10629081539ee2dd6b5606f17d0915961908
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 7 23:50:38 2023 +0200
+
+    Agreagando style.css al index.html
+
+commit 56d02cef36aa182bc772c4653aad9d10287f69ab
+Merge: 0ed693e 917e4bb
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 7 23:13:24 2023 +0200
+
+    Merge branch 'js'
+
+commit 0ed693e27c37c4227bc36d24ecead655610229af
+Merge: 6fb8119 e9a5d7b
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 7 23:11:45 2023 +0200
+
+    Merge branch 'css'
+
+commit 917e4bb8164315825442bb6301c24d609a20488f
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 7 19:35:36 2023 +0200
+
+    creando index.js
+
+commit e9a5d7b7b1c3760dcf7059cc106685c04c1d6a5c
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 7 19:29:49 2023 +0200
+
+    creando style.css
+
+commit 6fb8119115605cbe41e07d492adbd1f5f6b6047b
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 7 19:07:35 2023 +0200
+
+    crando index.html
+
+commit 52b9f7d085694b6e62973671aecf85cb8d254ef6
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sun May 7 17:47:36 2023 +0200
+
+    Ignorar archivos .exe en .gitignore
+
+commit 7c4e1307165d21e3412423e462fd42180298db51
+Author: PepePixal <130855793+PepePixal@users.noreply.github.com>
+Date:   Sat May 6 19:58:41 2023 +0200
+
+    Creando licencia del repositorio
+
+commit ff6f4f319b10280a62ebc2adfbe2b9bbd0eb5a76
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sat May 6 19:32:00 2023 +0200
+
+    Agregando contenido al Readme tras subirlo al GitHub
+
+commit ae28a9ce3a5a4ae6d94d95c868912a12ddbfb2fe
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sat May 6 18:19:15 2023 +0200
+
+    Agregando contenido inical al README
+
+commit 12b53bf6560ae851912f4cb6060d7138089d1f22
+Author: Pepe Pixal <pepepixal@gmail.com>
+Date:   Sat May 6 18:09:11 2023 +0200
+
+    Primer commit
